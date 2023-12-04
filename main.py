@@ -14,7 +14,7 @@ from langchain.vectorstores import Chroma
 
 os.chdir(r'D:\RANDD')
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 pdf_docs = []
 
 # Sidebar Contents
